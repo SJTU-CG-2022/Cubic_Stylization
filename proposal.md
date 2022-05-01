@@ -35,7 +35,10 @@ Week 6: Generate stylized shapes and scenes and do some analysis.
 ### Resources
 
 > https://www.dgp.toronto.edu/projects/cubic-stylization/
+> 
 > https://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf
+> 
 > https://www.dgp.toronto.edu/projects/paparazzi/
+> 
 > http://www.geometry.caltech.edu/pubs/HJSTBD13.pdf
 
