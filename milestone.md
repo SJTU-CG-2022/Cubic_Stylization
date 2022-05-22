@@ -29,7 +29,7 @@ Because of the second second term we can't solve it the same as ARAP, but we can
 
 Finally we adopt the local-global optimization strategy to obtain such a R*.
 
-Here λ controls the level of cubeness. Although in eq(1) λ is the same for all meshes, but we can make some change so that diffirent parts of the object use different λ and present more artistic styles. This feature can be a main direction in our implemention.
+Here λ controls the level of cubeness. Although in eq(1) λ is the same for all meshes, but we can make some change so that diffirent parts of the object use different λ and present more artistic styles. This feature can be a main direction to generate new functions.
 
 
 
@@ -38,11 +38,17 @@ Here λ controls the level of cubeness. Although in eq(1) λ is the same for all
 
 Although we have run its code, many details are still not understandable for us.
 
-### Results
+We don't know how to add new functions to Scotty-3d right now, it requires us to understand the framework of the whole process.
 
+### Results
 
 
 ### Resources
 
 > https://www.dgp.toronto.edu/projects/cubic-stylization/
 > 
+> https://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf
+> 
+> https://www.dgp.toronto.edu/projects/paparazzi/
+> 
+> http://www.geometry.caltech.edu/pubs/HJSTBD13.pdf
