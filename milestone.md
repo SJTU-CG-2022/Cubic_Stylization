@@ -18,11 +18,15 @@ The goal is:
 
 ![Alt Text](./eq1.png)
 
-. R is a rotation matrix, \lambda, and we must find such a optimal R which turns out to find a R* such that:
+. R is a rotation matrix, and we must find such a optimal R which turns out to find a R* such that:
+![Alt Text](./eq3.png)
 
-![Alt Text](./eq2.png)
+In eq(1), the first term is a typical ARAP-energy, while the second is not. The second term is the l-1 regularization term to show the cubeness of the mesh.
 
-It is a typical ADMM formulation and we solve it like this
+Because of the second second term we can't solve it the same as ARAP, but we can change it eq(1) to the following form and apply ADMM formulation:
+
+![Alt Text](./eq3.png)
+
 
 ### What We Confuse
 
