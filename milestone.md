@@ -18,6 +18,12 @@ The goal is:
 
 ![Alt Text](./eq1.png)
 
+. R is a rotation matrix, \lambda, and we must find such a optimal R which turns out to find a R* such that:
+
+![Alt Text](./eq2.png)
+
+It is a typical ADMM formulation and we solve it like this
+
 ### What We Confuse
 
 Although we have run its code, many details are still not understandable 
