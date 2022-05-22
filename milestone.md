@@ -36,8 +36,13 @@ Here λ controls the level of cubeness. Although in eq(1) λ is the same for all
 
 
 ### Preliminary results
+Before:
 
+![Alt Text](./result_before.png)
 
+After:
+
+![Alt Text](./result_after.png)
 
 
 ### Future Plan
