@@ -27,10 +27,16 @@ Because of the second second term we can't solve it the same as ARAP, but we can
 
 ![Alt Text](./eq3.png)
 
+Finally we adopt the local-global optimization strategy to obtain such a R*.
+
+Here λ controls the level of cubeness. Although in eq(1) λ is the same for all meshes, but we can make some change so that diffirent parts of the object use different λ and present more artistic styles. This feature can be a main direction in our implemention.
+
+
+
 
 ### What We Confuse
 
-Although we have run its code, many details are still not understandable 
+Although we have run its code, many details are still not understandable for us.
 
 ### Results
 
