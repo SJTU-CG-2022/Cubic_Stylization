@@ -21,7 +21,7 @@ The goal is:
 ![Alt Text](./eq1.png)
 
 . R is a rotation matrix, and we must find such a optimal R which turns out to find a R* such that:
-![Alt Text](./eq3.png)
+![Alt Text](./eq2.png)
 
 In eq(1), the first term is a typical ARAP-energy, while the second is not. The second term is the l-1 regularization term to show the cubeness of the mesh.
 
