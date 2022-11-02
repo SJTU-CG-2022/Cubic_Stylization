@@ -15,7 +15,4 @@ You can test the code with "./cubicStylization_bin name.obj" where name is up to
 
 <img src="https://github.com/SJTU-CG-2022/Cubic_Stylization/blob/main/Cubic%20Stylization.png" width="600px">
 
-
-<video width="320" height="240" controls>
-    <source src="https://github.com/SJTU-CG-2022/Cubic_Stylization/blob/main/Cubic%20Stylization.mp4" type="video/mp4">
-</video>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/HOGCwQBDKrE/0.jpg)](https://youtu.be/HOGCwQBDKrE)
