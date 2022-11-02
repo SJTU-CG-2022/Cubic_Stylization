@@ -9,4 +9,4 @@ After that you type "make" and enter. When this finished there should be a excut
 
 You can test the code with "./cubicStylization_bin name.obj" where name is up to your choice and you can choose any of .obj file in the meshes folder.
 
-<img src="https://github.com/SJTU-CG-2022/Cubic_Stylization/blob/main/Cubic%20Stylization.png" width="100px">
+<img src="https://github.com/SJTU-CG-2022/Cubic_Stylization/blob/main/Cubic%20Stylization.png" width="1000px">
